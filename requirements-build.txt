@@ -1,0 +1,2 @@
+# Needed only when building a Windows executable.
+pyinstaller==6.22.3

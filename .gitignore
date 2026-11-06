@@ -1,0 +1,33 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local Android tools and application packages
+platform-tools/
+adb.exe
+AdbWinApi.dll
+AdbWinUsbApi.dll
+*.apk
+*.apks
+*.xapk
+*.aab
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+settings.json
+*.log
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
